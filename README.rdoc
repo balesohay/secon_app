@@ -1,0 +1,11 @@
+# README
+
+# Ruby on rails tutorial: secon application
+
+This is the secon try application for the ruby tutorial by michael hartl
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Please feel free to use a different markup language if you do not plan to run
+<tt>rake doc:app</tt>.
